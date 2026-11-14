@@ -1,0 +1,141 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Legend Jairus | Official Website</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- NAVIGATION -->
+    <header>
+        <div class="logo">LEGEND <span>JAIRUS</span></div>
+
+        <nav>
+            <a href="#home">HOME</a>
+            <a href="#about">ABOUT</a>
+            <a href="#gallery">GALLERY</a>
+            <a href="#contact">CONTACT</a>
+        </nav>
+    </header>
+
+    <!-- HERO SECTION -->
+    <section id="home" class="hero">
+
+        <div class="hero-text">
+            <h3>WELCOME TO MY WORLD</h3>
+
+            <h1>I AM <span>LEGEND JAIRUS</span></h1>
+
+            <h2>Dream Big. Stay Focused. Make History.</h2>
+
+            <p>
+                Welcome to my official personal website.
+                A place where my story, dreams, creativity
+                and journey come together.
+            </p>
+
+            <a href="#about" class="btn">DISCOVER MY STORY</a>
+        </div>
+
+        <div class="hero-image">
+            <img
+                src="WIN_20261111_15_49_29_Pro.jpg"
+                alt="Portrait of Legend Jairus">
+        </div>
+
+    </section>
+
+    <!-- ABOUT SECTION -->
+    <section id="about" class="about">
+
+        <h2>ABOUT <span>ME</span></h2>
+
+        <div class="about-content">
+
+            <div class="about-image">
+                <img
+                    src="WIN_20261111_15_49_29_Pro.jpg"
+                    alt="Legend Jairus portrait">
+            </div>
+
+            <div class="about-text">
+                <h3>My Name is Legend Jairus</h3>
+
+                <p>
+                    I am Legend Jairus. Welcome to my personal
+                    space where I share my personality, interests,
+                    ambitions and journey.
+                </p>
+
+                <p>
+                    I believe in hard work, confidence,
+                    determination and creating a positive future.
+                    Every day is another opportunity to grow
+                    and become better.
+                </p>
+
+                <a href="#gallery" class="btn">VIEW MY GALLERY</a>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- GALLERY -->
+    <section id="gallery" class="gallery">
+
+        <h2>MY <span>GALLERY</span></h2>
+
+        <p>Some moments from my journey.</p>
+
+        <div class="gallery-container">
+
+            <div class="photo">
+                <img
+                    src="WIN_20261111_15_49_29_Pro.jpg"
+                    alt="Legend Jairus photo">
+                <h3>LEGEND JAIRUS</h3>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- MOTIVATION -->
+    <section class="motivation">
+        <h2>MY MOTTO</h2>
+
+        <p>
+            "Believe in yourself, work for your dreams
+            and let your journey tell your story."
+        </p>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact" class="contact">
+
+        <h2>GET IN <span>TOUCH</span></h2>
+
+        <p>Thank you for visiting my website.</p>
+
+        <a href="mailto:your-email@example.com" class="btn">
+            CONTACT ME
+        </a>
+
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <h2>LEGEND <span>JAIRUS</span></h2>
+
+        <p>Dream Big | Stay Focused | Make History</p>
+
+        <p>&copy; 2026 Legend Jairus. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
